@@ -1,4 +1,40 @@
+body{
+  font-weight: 500;
+}
+
 #container{
-  margin:0 auto;
+  margin:64px auto;
   width:1120px;
+}
+
+#vermelho{
+  color: red;
+}
+
+#bom-para{
+  font-weight: bold;
+}
+
+#historia{
+  color:blue;
+}
+
+#casais{
+  color: purple;
+}
+
+#familia{
+  color: rgb(224, 85, 108);
+}
+
+#orçamento{
+  color: orangered;
+}
+
+footer{
+  text-align: center;
+  padding: 65px;
+}
+footer img{
+  vertical-align: middle;
 }
